@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+  font-family: "Source Sans 3", sans-serif;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  /* background: #3c3e44; */
+}
